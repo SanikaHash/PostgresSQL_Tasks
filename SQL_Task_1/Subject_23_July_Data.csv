@@ -1,0 +1,28 @@
+subject_id,subject_name,credits,instructor,semester
+74,Introduction to Computer Science,3,name74,1
+75,Calculus I,4,name75,1
+76,General Physics I,4,name76,1
+77,Organic Chemistry,4,name77,2
+78,Introduction to Biology,3,name78,2
+79,Data Structures,4,name79,3
+80,Linear Algebra,3,name80,3
+81,Quantum Mechanics,4,name81,4
+82,Biochemistry,4,name82,4
+83,Algorithms,4,name83,4
+84,Advanced Calculus,3,name84,5
+85,Electromagnetism,4,name85,5
+86,Genetics,3,name86,5
+87,Machine Learning,4,name87,6
+88,Differential Equations,3,name88,6
+89,Statistical Mechanics,4,name89,6
+90,Molecular Biology,4,name90,7
+91,Artificial Intelligence,4,name91,7
+92,Number Theory,3,name92,7
+93,Thermodynamics,4,name93,8
+94,Immunology,4,name94,8
+95,Database Systems,3,name95,8
+96,Partial Differential Equations,4,name96,9
+97,Astrophysics,4,name97,9
+98,Organic Synthesis,4,name98,9
+99,Genomics,4,name99,10
+100,Computer Networks,4,name100,10
