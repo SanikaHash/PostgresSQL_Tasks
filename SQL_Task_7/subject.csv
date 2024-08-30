@@ -1,0 +1,101 @@
+"subject_id","subject_name","credits","instructor","semester"
+1,"Introduction to Computer Science",3,"name1",1
+2,"Calculus I",4,"name2",1
+3,"General Physics I",4,"name3",1
+4,"Organic Chemistry",4,"name4",2
+5,"Introduction to Biology",3,"name5",2
+6,"Data Structures",4,"name6",3
+7,"Linear Algebra",3,"nam7",3
+8,"Quantum Mechanics",4,"name8",4
+9,"Biochemistry",4,"name9",4
+10,"Algorithms",4,"name10",4
+11,"Advanced Calculus",3,"name11",5
+12,"Electromagnetism",4,"name12",5
+13,"Genetics",3,"name13",5
+14,"Machine Learning",4,"name14",6
+15,"Differential Equations",3,"name15",6
+16,"Statistical Mechanics",4,"name16",6
+17,"Molecular Biology",4,"name17",7
+18,"Artificial Intelligence",4,"name18",7
+19,"Number Theory",3,"name19",7
+20,"Thermodynamics",4,"name20",8
+21,"Immunology",4,"name21",8
+22,"Database Systems",3,"name22",8
+23,"Partial Differential Equations",4,"name23",9
+24,"Astrophysics",4,"name24",9
+25,"Organic Synthesis",4,"name25",9
+26,"Genomics",4,"name26",10
+27,"Computer Networks",4,"name27",10
+28,"Topology",3,"nam28",10
+29,"Classical Mechanics",4,"name29",11
+30,"Human Anatomy",4,"name30",11
+31,"Cryptography",3," name31",11
+32,"Chemical Engineering",4,"name32",12
+33,"Developmental Biology",4,"name33",12
+34,"Information Theory",3,"name34",12
+35,"Biophysics",4,"name35",13
+36,"Numerical Analysis",3,"name36",13
+37,"Advanced Organic Chemistry",4,"name37",13
+38,"Bioinformatics",4,"name38",14
+39,"Advanced Machine Learning",4,"name39",14
+40,"Differential Geometry",3,"name40",14
+41,"Inorganic Chemistry",4,"name41",15
+42,"Virology",4,"name42",15
+43,"Neuroscience",4,"name43",15
+44,"Complex Analysis",3,"name44",16
+45,"Condensed Matter Physics",4,"name45",16
+46,"Environmental Biology",4,"name46",16
+47,"Functional Analysis",3," name47",17
+48,"Plasma Physics",4,"name48",17
+49,"Behavioral Genetics",4,"name49",17
+50,"Advanced Algorithms",4,"name50",18
+51,"Graph Theory",3,"name51",18
+52,"Advanced Algorithms",4,"name52",18
+53,"Graph Theory",3,"name53",18
+54,"Genetic Engineering",4,"name54",18
+55,"Programming Languages",4,"name55",19
+56,"Combinatorics",3,"name56",19
+57,"Immunogenetics",4,"name57",19
+58,"Distributed Systems",4,"name58",20
+59,"Mathematical Logic",3,"name59",20
+60,"Evolutionary Biology",4,"name60",20
+61,"Advanced Biochemistry",4,"name61",21
+62,"Cell Biology",4,"name62",21
+63,"Microbiology",4,"name63",21
+64,"Software Engineering",4,"name64",22
+65,"Abstract Algebra",3,"name65",22
+66,"Behavioral Neuroscience",4,"name66",22
+67,"Advanced Physics",4,"name67",23
+68,"Physical Chemistry",4,"name68",23
+69,"Biostatistics",3,"name69",23
+70,"Data Mining",4,"name70",24
+71,"Set Theory",3,"name71",24
+72,"Structural Biology",4,"name72",24
+73,"Compiler Design",4,"name73",25
+74,"Introduction to Computer Science",3,"name74",1
+75,"Calculus I",4,"name75",1
+76,"General Physics I",4,"name76",1
+77,"Organic Chemistry",4,"name77",2
+78,"Introduction to Biology",3,"name78",2
+79,"Data Structures",4,"name79",3
+80,"Linear Algebra",3,"name80",3
+81,"Quantum Mechanics",4,"name81",4
+82,"Biochemistry",4,"name82",4
+83,"Algorithms",4,"name83",4
+84,"Advanced Calculus",3,"name84",5
+85,"Electromagnetism",4,"name85",5
+86,"Genetics",3,"name86",5
+87,"Machine Learning",4,"name87",6
+88,"Differential Equations",3,"name88",6
+89,"Statistical Mechanics",4,"name89",6
+90,"Molecular Biology",4,"name90",7
+91,"Artificial Intelligence",4,"name91",7
+92,"Number Theory",3,"name92",7
+93,"Thermodynamics",4,"name93",8
+94,"Immunology",4,"name94",8
+95,"Database Systems",3,"name95",8
+96,"Partial Differential Equations",4,"name96",9
+97,"Astrophysics",4,"name97",9
+98,"Organic Synthesis",4,"name98",9
+99,"Genomics",4,"name99",10
+100,"Computer Networks",4,"name100",10

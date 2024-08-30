@@ -1,0 +1,5 @@
+"id","name","mob","age","stream","college_id","total_mark"
+1,"stu1",46567689,26,"ART",1,"0"
+2,"stu2",46896768,29,"SCIENCE",2,"0"
+3,"stu3",123456789,22,"COMPUTER",3,"0"
+4,"stud%d",1234567,23,"ATR",4,"123"
